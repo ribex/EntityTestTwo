@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
 
-namespace EntityTestTwo
+namespace EntityTestThree
 {
     public class Blog
     {
@@ -64,4 +64,4 @@ namespace EntityTestTwo
 
 
 }
-// commit comment
+// commit comment }
